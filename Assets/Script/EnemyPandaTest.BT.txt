@@ -1,0 +1,12 @@
+tree("Root")
+	parallel
+		tree("FaceTowardPlayer")
+
+tree("FaceTowardPlayer")
+	sequence
+		FaceTowardPlayer()
+		MoveToPlayer()
+
+
+
+
