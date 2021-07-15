@@ -48,7 +48,6 @@ public class EnemyPandaTest : MonoBehaviour
         }
 
     }
-    [Task]
-    void Att
+
     
 }
