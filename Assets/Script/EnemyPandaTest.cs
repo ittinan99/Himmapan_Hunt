@@ -39,7 +39,7 @@ public class EnemyPandaTest : MonoBehaviour
         if (Task.isInspected)
             Task.current.debugInfo = string.Format("d={0:0.000}", d);
 
-        if (Vector3.Dot(delta, newDelta) <= 0.0f || d < 5f)
+        if (Vector3.Dot(delta, newDelta) <= 0.0f || d < 10f)
         {
             transform.position = transform.position;
             Task.current.Succeed();
@@ -48,5 +48,7 @@ public class EnemyPandaTest : MonoBehaviour
         }
 
     }
+    [Task]
+    void Att
     
 }
