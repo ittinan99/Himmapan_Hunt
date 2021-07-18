@@ -1,0 +1,199 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1440; Version 1909; 64bit' Language: 'en' Physical Memory: 8084 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\unity\Editor\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+D:/Himmapan_Hunt
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+51410
+Successfully changed project path to: D:/Himmapan_Hunt
+D:/Himmapan_Hunt
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 126.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path D:/unity/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Himmapan_Hunt/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   
+    VRAM:     4055 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'D:/unity/Editor/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'D:/unity/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/unity/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56620
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/unity/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007282 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.498 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.069947 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.443 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.30 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1413 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.4 MB.
+System memory in use after: 65.5 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1847.
+Total: 3.456000 ms (FindLiveObjects: 0.190000 ms CreateObjectMapping: 0.098000 ms MarkObjects: 3.066200 ms  DeleteObjects: 0.100600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2e04ecb918186998abc5d5392e307f0') in 1.644025 seconds 
+  Import took 1.682779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.794390 seconds.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2e04ecb918186998abc5d5392e307f0') in 0.193867 seconds 
+  Import took 0.198880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.749538 seconds.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '037620f4ffc88bf616d54dce4b5c9f62') in 0.157176 seconds 
+  Import took 0.169511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.258337 seconds.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36b32f5922ae3482224a80ceb41ddd5f') in 0.139635 seconds 
+  Import took 0.161995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.085965 seconds.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc55ef2b63db74b10d728a9acedf3860') in 0.128699 seconds 
+  Import took 0.156063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.905535 seconds.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab52d99a58569aaaf9b19f85e1332eb1') in 0.135044 seconds 
+  Import took 0.154917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.644300 seconds.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19391ee292123ae5cf10e93d35f22a64') in 0.112866 seconds 
+  Import took 0.121485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.429900 seconds.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '242caa6db545d63451eb463de64314a3') in 0.116072 seconds 
+  Import took 0.124518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.085489 seconds.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '092ce65ca62c99c498cc00b670cf7028') in 0.124584 seconds 
+  Import took 0.151309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.642875 seconds.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d2d8c5f34858ce3ccb71c5795e16119') in 0.137363 seconds 
+  Import took 0.163883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.639693 seconds.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f98ae5d2bb1ae3e9dd15c5a29a152c1d') in 0.134864 seconds 
+  Import took 0.157110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.313270 seconds.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abfa64d350686dd5baa18615a85c3284') in 0.132893 seconds 
+  Import took 0.139623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.389908 seconds.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22603cacd80d0da7a51a7042d4da72f2') in 0.133734 seconds 
+  Import took 0.140162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.197406 seconds.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d93dedea002a30360c1a3ae8955f74') in 0.119523 seconds 
+  Import took 0.138224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001724 seconds.
+  path: Assets/Model/Narkynee_v1 (1).fbx
+  artifactKey: Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model/Narkynee_v1 (1).fbx using Guid(a2da126a535cebf43b282d4b5ab9c66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d93dedea002a30360c1a3ae8955f74') in 0.124452 seconds 
+  Import took 0.131687 seconds .
+

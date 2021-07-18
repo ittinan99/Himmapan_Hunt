@@ -1,0 +1,24 @@
+tree("Root")
+	parallel
+		tree("NakeneeTest")
+
+tree("NakeneeTest")
+	sequence
+		Roar()
+		repeat
+			fallback
+				while
+					PlayerNotInRanged()
+					sequence
+						MoveToPlayer()
+				while
+					PlayerInRanged()
+					sequence
+						ActionNearestPoint()
+						
+
+
+
+
+
+
