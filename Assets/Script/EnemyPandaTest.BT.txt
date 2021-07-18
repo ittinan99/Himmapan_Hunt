@@ -1,11 +1,23 @@
 tree("Root")
 	parallel
-		tree("FaceTowardPlayer")
+		tree("NakeneeTest")
 
-tree("FaceTowardPlayer")
+tree("NakeneeTest")
 	sequence
-		FaceTowardPlayer()
-		MoveToPlayer()
+		Roar()
+		repeat
+			fallback
+				while
+					PlayerNotInRanged()
+					sequence
+						MoveToPlayer()
+				while
+					PlayerInRanged()
+					sequence
+						ActionNearestPoint()
+						
+
+
 
 
 
